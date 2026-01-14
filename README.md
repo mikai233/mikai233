@@ -53,5 +53,5 @@
 
 ---
 
-## 📈 Metrics (auto-updated)
+## 📈 Metrics
 ![metrics](github-metrics.svg)
