@@ -20,13 +20,13 @@
 ---
 
 ## ⚡ About
-- **Rust / Kotlin** engineer (performance-minded, engineering-focused)
-- Interests: **emulation**, **game backend**, **distributed systems**
-- Main project: **Nesium** — **Rust core + Flutter UI**
+- **Rust / Kotlin** engineer, performance-minded
+- Building **Nesium** (**Rust core + Flutter UI**)
+- Focus: **emulation**, **backend systems**, **DX/tooling**, **reliability**
 
 ---
 
-## 🚀 Featured Project: Nesium
+## 🚀 Featured: Nesium
 <p align="center">
   <a href="https://github.com/mikai233/nesium"><img src="https://img.shields.io/badge/Rust-Core-DEA584?style=flat-square&logo=rust&logoColor=white" /></a>
   <a href="https://github.com/mikai233/nesium"><img src="https://img.shields.io/badge/Flutter-UI-02569B?style=flat-square&logo=flutter&logoColor=white" /></a>
@@ -42,14 +42,8 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,kotlin,flutter,androidstudio,gradle,cmake,git,githubactions,linux,windows&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,kotlin,go,dart,flutter,androidstudio,gradle,cmake,docker,redis,mongodb,neovim,git,githubactions,vscode,idea,linux,windows&theme=dark&perline=18" />
 </p>
-
----
-
-## 📌 Highlights
-- **Emulation & Tooling**: correctness, performance, developer experience
-- **Backend & Systems**: scalable services, reliability, practical engineering
 
 ---
 
