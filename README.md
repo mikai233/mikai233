@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=14B8A6&center=true&vCenter=true&width=880&lines=Rust+%2F+Kotlin+Developer;Building+Nesium;Emulation+%C2%B7+Backend+%C2%B7+Tooling;Hi-Fi+Audio+%C2%B7+ACG+Culture" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=39C5BB&center=true&vCenter=true&width=880&lines=Hatsune+Miku+Fan;Hi-Fi+Audio+Enthusiast;ACG+Culture;Rust+%C2%B7+Kotlin+Developer" />
 </p>
 
 <p align="center">
@@ -21,7 +21,6 @@
 
 ## About
 - **Rust / Kotlin** developer focused on **performance**, **reliability**, and clean tooling
-- Building **Nesium**, a **NES emulator** with a **Rust core** and **Flutter UI**
 - Interested in **emulation**, **backend systems**, **developer experience**, and polished engineering
 - Also into **Hi-Fi audio**, **ACG culture**, and products that feel sharp at both UX and low-level detail
 
