@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=880&lines=Rust+%C2%B7+Kotlin+Engineer;Emulator+Development;Nesium%3A+Rust+Core+%2B+Flutter+UI;Game+Backend+%26+Distributed+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=39C5BB&center=true&vCenter=true&width=880&lines=Hatsune+Miku+Fan;Hi-Fi+Audio+Enthusiast;ACG+Culture;Rust+%C2%B7+Kotlin+Developer" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ---
 
 ## ⚡ About
-- **Rust / Kotlin** engineer, performance-minded
+- **Rust / Kotlin** developer, performance-minded
 - Building **Nesium** (**Rust core + Flutter UI**)
 - Focus: **emulation**, **backend systems**, **DX/tooling**, **reliability**
 
